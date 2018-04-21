@@ -1,0 +1,9 @@
+C:\Users\jkulkarni\Source\Repos\CommonWord\CommonWord\bin\Debug\CommonWord.exe.config
+C:\Users\jkulkarni\Source\Repos\CommonWord\CommonWord\bin\Debug\CommonWord.exe
+C:\Users\jkulkarni\Source\Repos\CommonWord\CommonWord\bin\Debug\CommonWord.pdb
+C:\Users\jkulkarni\Source\Repos\CommonWord\CommonWord\obj\Debug\CommonWord.csprojResolveAssemblyReference.cache
+C:\Users\jkulkarni\Source\Repos\CommonWord\CommonWord\obj\Debug\CommonWord.csproj.CoreCompileInputs.cache
+C:\Users\jkulkarni\Source\Repos\CommonWord\CommonWord\obj\Debug\CommonWord.exe
+C:\Users\jkulkarni\Source\Repos\CommonWord\CommonWord\obj\Debug\CommonWord.pdb
+C:\Users\jkulkarni\Source\Repos\CommonWord\CommonWord\bin\Debug\System.ValueTuple.dll
+C:\Users\jkulkarni\Source\Repos\CommonWord\CommonWord\bin\Debug\System.ValueTuple.xml
